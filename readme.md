@@ -19,6 +19,6 @@ Here are some images of the game, be cautious, these images range from pre-Alpha
 ![ss_5](nexus/old3.png)
 ![ss_6](nexus/old4.png)
 
-You have reached the extra function of this project, this is the demo of wobbly window (one of the eye candy features of this fictional OS) at its very primitive stage:
+You have reached the extra section of this project, this is the demo of wobbly window (one of the eye candy features of this fictional OS) at its very primitive stage:
 
 ![ss_wobbly](nexus/proto_wobbly.png)
